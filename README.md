@@ -1,4 +1,4 @@
-### Olá! Vitoria Dourad aqui XD
+### Olá! Vitoria Dourado aqui XD
 
 <div aling= "center">
      <img height="150em" src="https://github-readme-stats.vercel.app/api?username=VitoriaDourado&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
