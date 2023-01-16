@@ -2,7 +2,7 @@
 
 <picture>
 <source 
-  srcset="https://github-readme-stats.vercel.app/api?username=VitoriaDourado&show_icons=true&theme=dracula"
+  srcset="https://github-readme-stats.vercel.app/api?username=VitoriaDourado&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"
   media="(prefers-color-scheme: dracula)"
 />
 <source
