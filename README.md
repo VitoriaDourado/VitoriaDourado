@@ -8,7 +8,7 @@
 <p align="justify"> 
  Olá, meu nome é Vitória Dourado, tenho 21 anos e sou formada em Jogos Digitais pela Estácio de Sá. Durante a graduação, desenvolvi habilidades em programação de jogos e também em desenvolvimento web. Atualmente, estou me dedicando a aprimorar meus conhecimentos em programação, com foco em práticas avançadas como TDD e clean code</p>
 <p align="justify"> 
-  Atuei como <strong>Desenvolvedor Full-Stack</strong> em um projeto realizado pela Universidade de Fortaleza em parceria com a Prefeitura de Fortaleza, em que desempenhei o papel de líder de projeto, coordenando equipes e garantindo a entrega de soluções eficientes e alinhadas aos objetivos estabelecidos.. 
+  Atuei como <strong>Desenvolvedora Full-Stack</strong> em um projeto realizado pela Universidade de Fortaleza em parceria com a Prefeitura de Fortaleza, em que desempenhei o papel de líder de projeto, coordenando equipes e garantindo a entrega de soluções eficientes e alinhadas aos objetivos estabelecidos.. 
 </p>
 <p align="justify"> 
   Atualmente, estou em busca de novas oportunidades como <strong>Desenvolvedor Full-Stack</strong> em que eu possa aplicar minhas habilidades técnicas, contribuir para o desenvolvimento de projetos desafiadores e continuar evoluindo profissionalmente.
