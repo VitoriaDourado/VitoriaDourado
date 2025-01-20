@@ -11,7 +11,7 @@
   Atuei como <strong>Desenvolvedora Full-Stack</strong> em um projeto realizado pela Universidade de Fortaleza em parceria com a Prefeitura de Fortaleza, em que desempenhei o papel de líder de projeto, coordenando equipes e garantindo a entrega de soluções eficientes e alinhadas aos objetivos estabelecidos.. 
 </p>
 <p align="justify"> 
-  Atualmente, estou em busca de novas oportunidades como <strong>Desenvolvedor Full-Stack</strong> em que eu possa aplicar minhas habilidades técnicas, contribuir para o desenvolvimento de projetos desafiadores e continuar evoluindo profissionalmente.
+  Atualmente, estou em busca de novas oportunidades como <strong>Desenvolvedora Full-Stack</strong> em que eu possa aplicar minhas habilidades técnicas, contribuir para o desenvolvimento de projetos desafiadores e continuar evoluindo profissionalmente.
 </p>
 
 ---
