@@ -6,12 +6,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=VitoriaDourado&color=blue" alt="Profile views" /> </p>
 <p align="justify"> 
- Olá, meu nome é Vitória Dourado, tenho 21 anos e sou formada em Jogos Digitais pela Estácio de Sá. Durante a graduação, desenvolvi habilidades em programação de jogos e também em desenvolvimento web. Atualmente, estou me dedicando a aprimorar meus conhecimentos em programação, com foco em práticas avançadas como TDD e clean code</p>
+ Olá, meu nome é Vitória Dourado, tenho 21 anos, sou Desenvolvedora Web com 3 anos de experiência no desenvolvimento de soluções web modernas e APIs.
 <p align="justify"> 
-  Atuei como <strong>Desenvolvedora Full-Stack</strong> em um projeto realizado pela Universidade de Fortaleza em parceria com a Prefeitura de Fortaleza, em que desempenhei o papel de líder de projeto, coordenando equipes e garantindo a entrega de soluções eficientes e alinhadas aos objetivos estabelecidos.. 
+  Atuo com foco em arquitetura limpa e experiência do usuário otimizada entre plataformas. Experiência sólida em Node.js, JavaScript, TypeScript, Vue.js e PostgreSQL, com conhecimento inicial em AWS. 
 </p>
 <p align="justify"> 
-  Atualmente, estou em busca de novas oportunidades como <strong>Desenvolvedora Full-Stack</strong> em que eu possa aplicar minhas habilidades técnicas, contribuir para o desenvolvimento de projetos desafiadores e continuar evoluindo profissionalmente.
+  Atualmente, trabalho como Desenvolvedora Full-Stack Júnior no Kidsa, contribuindo no desenvolvimento e integração entre frontend e backend. Reconhecida pela proatividade e confiabilidade, além de forte colaboração em equipe.
 </p>
 
 ---
@@ -26,7 +26,6 @@
 <img align="left" alt="Vue.js" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
 <img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<img align="left" alt="MySQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
 <img align="left" alt="PostgreSQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
 </a>
 <br />
