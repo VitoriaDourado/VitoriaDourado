@@ -9,7 +9,7 @@
 
 ## 🇺🇸 About me
 
-I'm a Software Developer with nearly 4 years of professional experience building web applications, backend services, and API integrations.
+I'm a Software Developer with over 4 years of professional experience building web applications, backend services, and API integrations.
 
 My main focus is backend development with **Node.js, TypeScript, NestJS, and PostgreSQL**, while also working with frontend technologies such as Vue.js and React.
 
@@ -19,7 +19,7 @@ I enjoy understanding how systems work, solving technical problems, and continuo
 
 ## 🇧🇷 Sobre mim
 
-Sou Desenvolvedora de Software com quase 4 anos de experiência profissional no desenvolvimento de aplicações web, serviços backend e integrações entre sistemas.
+Sou Desenvolvedora de Software com mais de 4 anos de experiência profissional no desenvolvimento de aplicações web, serviços backend e integrações entre sistemas.
 
 Meu principal foco é o desenvolvimento backend com **Node.js, TypeScript, NestJS e PostgreSQL**, mas também atuo no frontend com tecnologias como Vue.js e React.
 
