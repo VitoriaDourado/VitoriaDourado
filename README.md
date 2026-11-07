@@ -17,7 +17,7 @@
 **`Desenvolvedora Web Junior | Full Stack`**
 
 <p align="justify"> 
- Olá, meu nome é Vitória Dourado, tenho 22 anos, sou Desenvolvedora Web com 3 anos de experiência no desenvolvimento de soluções web modernas e APIs.
+ Olá, meu nome é Vitória Dourado, tenho 23 anos, sou Desenvolvedora Web com 3 anos de experiência no desenvolvimento de soluções web modernas e APIs.
 <p align="justify"> 
   Atuo com foco em arquitetura limpa e experiência do usuário otimizada entre plataformas. Experiência sólida em Node.js, JavaScript, TypeScript, Vue.js e PostgreSQL, com conhecimento inicial em AWS. 
 </p>
