@@ -6,7 +6,7 @@
 **`Junior Software Enginner | Full-stack`**
 
 <p align="justify"> 
- Hello! My name is Vitória Dourado, I’m 22 years old, and I’m a Web Developer with 3 years of experience in building modern web solutions and APIs.
+ Hello! My name is Vitória Dourado, I’m 23 years old, and I’m a Web Developer with 3 years of experience in building modern web solutions and APIs.
 <p align="justify"> 
   I focus on clean architecture and delivering optimized user experiences across platforms. I have solid experience with Node.js, JavaScript, TypeScript, Vue.js, and PostgreSQL, and initial knowledge of AWS.
 </p>
