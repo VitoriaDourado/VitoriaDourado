@@ -1,49 +1,104 @@
+
 # 👩‍💻 Vitória Dourado
 
-<img src="https://github.com/user-attachments/assets/524ff13e-dfd5-424e-a3b6-659d1380e49b" min-width="400px" max-width="400px" width="400px" align="right" alt="Imagem de Computador">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=VitoriaDourado&color=blue" alt="Profile views" /> </p>
+### Full Stack Developer | Backend-focused
 
-**`Junior Software Enginner | Full-stack`**
-
-<p align="justify"> 
- Hello! My name is Vitória Dourado, I’m 23 years old, and I’m a Web Developer with 4 years of experience in building modern web solutions and APIs.
-<p align="justify"> 
-  I focus on clean architecture and delivering optimized user experiences across platforms. I have solid experience with Node.js, JavaScript, TypeScript, Vue.js, and PostgreSQL, and initial knowledge of AWS.
-</p>
-<p align="justify"> 
-  Currently, I work as a Junior Full-Stack Developer at Kidsa, contributing to both frontend and backend integration. I’m recognized for being proactive, reliable, and highly collaborative in team environments.
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=VitoriaDourado&color=blue" alt="Profile views" />
 </p>
 
-**`Desenvolvedora Web Junior | Full Stack`**
+## 🇺🇸 About me
 
-<p align="justify"> 
- Olá, meu nome é Vitória Dourado, tenho 23 anos, sou Desenvolvedora Web com 4 anos de experiência no desenvolvimento de soluções web modernas e APIs.
-<p align="justify"> 
-  Atuo com foco em arquitetura limpa e experiência do usuário otimizada entre plataformas. Experiência sólida em Node.js, JavaScript, TypeScript, Vue.js e PostgreSQL, com conhecimento inicial em AWS. 
-</p>
-<p align="justify"> 
-  Atualmente, trabalho como Desenvolvedora Full-Stack Júnior no Kidsa, contribuindo no desenvolvimento e integração entre frontend e backend. Reconhecida pela proatividade e confiabilidade, além de forte colaboração em equipe.
-</p>
+I'm a Software Developer with nearly 4 years of professional experience building web applications, backend services, and API integrations.
 
+My main focus is backend development with **Node.js, TypeScript, NestJS, and PostgreSQL**, while also working with frontend technologies such as Vue.js and React.
 
----
-### 🧰 Ferramentas | Skills
+I have experience with REST APIs, database management, system integrations, software architecture, and application deployment. I'm also interested in AI integration and LLM-powered applications, exploring how language models can interact with external tools and data.
 
-<img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img align="left" alt="Vue.js" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
-<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<img align="left" alt="PostgreSQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
-</a>
-<br />
+I enjoy understanding how systems work, solving technical problems, and continuously improving my software engineering skills.
+
+## 🇧🇷 Sobre mim
+
+Sou Desenvolvedora de Software com quase 4 anos de experiência profissional no desenvolvimento de aplicações web, serviços backend e integrações entre sistemas.
+
+Meu principal foco é o desenvolvimento backend com **Node.js, TypeScript, NestJS e PostgreSQL**, mas também atuo no frontend com tecnologias como Vue.js e React.
+
+Tenho experiência com APIs REST, gerenciamento de bancos de dados, integração de sistemas, arquitetura de software e implantação de aplicações. Também tenho interesse em inteligência artificial e integração de LLMs, explorando aplicações que conectam modelos de linguagem a ferramentas e dados externos.
+
+Gosto de entender o funcionamento dos sistemas, resolver problemas técnicos e aprofundar continuamente meus conhecimentos em engenharia de software.
 
 ---
 
-### 📊 Status
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=VitoriaDourado&show_icons=true&theme=radical" />
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitoriaDourado&theme=radical&layout=compact" />
+## 🧰 Tech Stack
+
+### Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,typescript,postgresql" />
+</p>
+
+### Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=javascript,typescript,vue,react,html,css" />
+</p>
+
+### Tools & Infrastructure
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,aws,postman" />
+</p>
+
+### Architecture & Concepts
+
+- Object-Oriented Programming (OOP)
+- SOLID Principles
+- Clean Architecture
+- Design Patterns
+- REST APIs
+- GraphQL
+- Relational Databases
+- CI/CD
+
+---
+
+## 🚀 Featured Projects
+
+### AI-powered Applications
+Exploring LLM integrations, tool calling, and interactions between AI models and backend services.
+
+### Todo List API
+Backend application built with NestJS, TypeORM, PostgreSQL, and GraphQL, focusing on task management, data persistence, and API development.
+
+---
+
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api?username=VitoriaDourado&show_icons=true&theme=radical&hide_border=true&count_private=true"
+    alt="GitHub Stats"
+  />
+  <img
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitoriaDourado&layout=compact&theme=radical&hide_border=true"
+    alt="Top Languages"
+  />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=VitoriaDourado&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+## 📫 Contact
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/vitoriadourado/" target="_blank">
+    LinkedIn
+  </a>
+  |
+  <a href="mailto:vitoriadourado.dev@gmail.com">
+    Email
+  </a>
+</p>
